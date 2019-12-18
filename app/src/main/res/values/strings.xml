@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubIssues</string>
+    <string name="issues">Issues do repositório</string>
+    <string name="github">Ir para Github</string>
+    <string name="avatar_image">imagem do usuário</string>
+    <string name="details">Detalhes</string>
+    <string name="navigation_drawer_header_content_description">Navigation drawer header logo</string>
+    <string name="navigation_drawer_header_title">Teste Improving</string>
+    <string name="an_error_was_ocured">Ocorreu um erro</string>
+    <string name="published">Publicado %s</string>
+
+    <plurals name="months_ago">
+        <item quantity="one">Há %s mês atrás</item>
+        <item quantity="other">Há %s meses atrás</item>
+    </plurals>
+
+    <plurals name="years_ago">
+        <item quantity="one">Há %s ano atrás</item>
+        <item quantity="other">Há %s anos atrás</item>
+    </plurals>
+</resources>
